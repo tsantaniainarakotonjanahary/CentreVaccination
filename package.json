@@ -1,0 +1,25 @@
+{
+  "name": "centrevaccination",
+  "version": "1.0.0",
+  "description": "Site de geolocalisation de centre de vaccination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsantaniainarakotonjanahary/CentreVaccination.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsantaniainarakotonjanahary/CentreVaccination/issues"
+  },
+  "homepage": "https://github.com/tsantaniainarakotonjanahary/CentreVaccination#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
